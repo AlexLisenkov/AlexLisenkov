@@ -11,5 +11,5 @@
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlisenkov&layout=compact)
 
-![LinkedIn](https://img.shields.io/badge/View%20Profile-0077B5.svg?&style=flat-square&logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/View%20Profile-0077B5.svg?&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alisenkov/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexlisenkov.visitorbadge)
